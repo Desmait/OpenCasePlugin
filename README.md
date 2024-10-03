@@ -26,3 +26,6 @@ A simple plugin for CS2 servers that allows players to open in-game cases throug
 
 - There is **no case-opening animation**. The drop result will be shown as a text message in the chat.
 
+## 🌟 Enjoying the Plugin?
+
+If you like this plugin, consider giving it a star! ⭐ It helps others discover the project and shows your support.
