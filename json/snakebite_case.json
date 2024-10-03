@@ -1,0 +1,182 @@
+{
+  "name": "Snakebite Case",
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFU4naLOJzgUuYqyzIaIxa6jMOLXxGkHvcMjibmU99Sg3Qaw-hA_ZWrzLISLMlhpgJJUhGE/256fx256f",
+  "content": {
+    "Rare Special Items": [
+      {
+        "name": "★ Moto Gloves | Finish Line",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Sport Gloves | Slingshot",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Broken Fang Gloves | Jade",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Broken Fang Gloves | Yellow-banded",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Moto Gloves | Smoke Out",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Driver Gloves | Rezan the Red",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Hand Wraps | Giraffe",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Sport Gloves | Scarlet Shamagh",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Hand Wraps | Desert Shamagh",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Specialist Gloves | Field Agent",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Specialist Gloves | Tiger Strike",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Specialist Gloves | Marble Fade",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Hand Wraps | CAUTION!",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Sport Gloves | Nocts",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Driver Gloves | Snow Leopard",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Broken Fang Gloves | Needle Point",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Moto Gloves | Blood Pressure",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Moto Gloves | 3rd Commando Company",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Specialist Gloves | Lt. Commander",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Sport Gloves | Big Game",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Driver Gloves | Queen Jaguar",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Hand Wraps | Constrictor",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Broken Fang Gloves | Unhinged",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Driver Gloves | Black Tie",
+        "can_be_stattrak": false
+      }
+    ],
+    "Covert Skins": [
+      {
+        "name": "M4A4 | In Living Color",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "USP-S | The Traitor",
+        "can_be_stattrak": true
+      }
+    ],
+    "Classified Skins": [
+      {
+        "name": "Galil AR | Chromatic Aberration",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "XM1014 | XOXO",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "MP9 | Food Chain",
+        "can_be_stattrak": true
+      }
+    ],
+    "Restricted Skins": [
+      {
+        "name": "P250 | Cyber Shell",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Negev | dev_texture",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Desert Eagle | Trigger Discipline",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "MAC-10 | Button Masher",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "AK-47 | Slate",
+        "can_be_stattrak": true
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "SG 553 | Heavy Metal",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Nova | Windblown",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "M249 | O.S.I.P.R.",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "UMP-45 | Oscillator",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "CZ75-Auto | Circaetus",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "R8 Revolver | Junk Yard",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Glock-18 | Clear Polymer",
+        "can_be_stattrak": true
+      }
+    ],
+    "Industrial Grade Skins": [],
+    "Consumer Grade Skins": []
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "name": "Spectrum 2 Case",
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFY4naeaJGhGtdnmx4Tek_bwY-iFlGlUsJMp3LuTot-mjFGxqUttZ2r3d4eLMlhpnZPxZK0/256fx256f",
+  "content": {
+    "Rare Special Items": [
+      {
+        "name": "★ Shadow Daggers | Damascus Steel",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Butterfly Knife | Ultraviolet",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Huntsman Knife | Tiger Tooth",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Shadow Daggers | Ultraviolet",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Shadow Daggers | Doppler",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Falchion Knife | Tiger Tooth",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Butterfly Knife | Rust Coat",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Shadow Daggers | Rust Coat",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Falchion Knife | Marble Fade",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Huntsman Knife | Rust Coat",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Falchion Knife | Rust Coat",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Butterfly Knife | Tiger Tooth",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Huntsman Knife | Marble Fade",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Falchion Knife | Doppler",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Bowie Knife | Tiger Tooth",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Bowie Knife | Rust Coat",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Huntsman Knife | Ultraviolet",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Bowie Knife | Doppler",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Bowie Knife | Ultraviolet",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Shadow Daggers | Marble Fade",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Butterfly Knife | Doppler",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Shadow Daggers | Tiger Tooth",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Butterfly Knife | Marble Fade",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Falchion Knife | Ultraviolet",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Huntsman Knife | Doppler",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Bowie Knife | Marble Fade",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Bowie Knife | Damascus Steel",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Butterfly Knife | Damascus Steel",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Falchion Knife | Damascus Steel",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Huntsman Knife | Damascus Steel",
+        "can_be_stattrak": true
+      }
+    ],
+    "Covert Skins": [
+      {
+        "name": "AK-47 | The Empress",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "P250 | See Ya Later",
+        "can_be_stattrak": true
+      }
+    ],
+    "Classified Skins": [
+      {
+        "name": "M4A1-S | Leaded Glass",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "R8 Revolver | Llama Cannon",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "PP-Bizon | High Roller",
+        "can_be_stattrak": true
+      }
+    ],
+    "Restricted Skins": [
+      {
+        "name": "XM1014 | Ziggy",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "MP9 | Goo",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "UMP-45 | Exposure",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "CZ75-Auto | Tacticat",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "SG 553 | Phantom",
+        "can_be_stattrak": true
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "AUG | Triqua",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "G3SG1 | Hunter",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "SCAR-20 | Jungle Slipstream",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Glock-18 | Off World",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "MAC-10 | Oceanic",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Sawed-Off | Morris",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Tec-9 | Cracked Opal",
+        "can_be_stattrak": true
+      }
+    ],
+    "Industrial Grade Skins": [],
+    "Consumer Grade Skins": []
+  }
+}

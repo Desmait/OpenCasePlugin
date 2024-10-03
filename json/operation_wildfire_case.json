@@ -1,0 +1,134 @@
+{
+  "name": "Operation Wildfire Case",
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFYxnaeQImRGu4S1x9TawfSmY-iHkmoD7cEl2LiQpIjz3wPl_ERkYWHwLY-LMlhp9pkR_UQ/256fx256f",
+  "content": {
+    "Rare Special Items": [
+      {
+        "name": "★ Bowie Knife | Forest DDPAT",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Bowie Knife | Blue Steel",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Bowie Knife | Stained",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Bowie Knife | Night",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Bowie Knife | ★ (Vanilla)",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Bowie Knife | Urban Masked",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Bowie Knife | Fade",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Bowie Knife | Crimson Web",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Bowie Knife | Case Hardened",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Bowie Knife | Safari Mesh",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Bowie Knife | Scorched",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Bowie Knife | Slaughter",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Bowie Knife | Boreal Forest",
+        "can_be_stattrak": true
+      }
+    ],
+    "Covert Skins": [
+      {
+        "name": "M4A4 | The Battlestar",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "AK-47 | Fuel Injector",
+        "can_be_stattrak": true
+      }
+    ],
+    "Classified Skins": [
+      {
+        "name": "AWP | Elite Build",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Nova | Hyper Beast",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Desert Eagle | Kumicho Dragon",
+        "can_be_stattrak": true
+      }
+    ],
+    "Restricted Skins": [
+      {
+        "name": "FAMAS | Valence",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "MAG-7 | Praetorian",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "MP7 | Impire",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Five-SeveN | Triumvirate",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Glock-18 | Royal Legion",
+        "can_be_stattrak": true
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "SSG 08 | Necropos",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "MAC-10 | Lapis Gator",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "PP-Bizon | Photic Zone",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Tec-9 | Jambiya",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "USP-S | Lead Conduit",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Dual Berettas | Cartel",
+        "can_be_stattrak": true
+      }
+    ],
+    "Industrial Grade Skins": [],
+    "Consumer Grade Skins": []
+  }
+}

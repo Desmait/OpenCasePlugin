@@ -1,0 +1,8 @@
+bin/
+obj/
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore JetBrains Rider settings
+.idea/

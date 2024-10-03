@@ -1,0 +1,278 @@
+{
+  "name": "Operation Bravo Case",
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsXE1xNwVDv7WrFA5pnabNJGwSuN3gxtnawKOlMO6HzzhQucAm0uvFo4n2iw3h_UM-ZmilJNeLMlhpjfjxEoE/256fx256f",
+  "content": {
+    "Rare Special Items": [
+      {
+        "name": "★ Gut Knife | Safari Mesh",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Bayonet | Forest DDPAT",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Karambit | ★ (Vanilla)",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Flip Knife | Urban Masked",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Gut Knife | Urban Masked",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Flip Knife | Night",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Karambit | Urban Masked",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Karambit | Boreal Forest",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Flip Knife | Crimson Web",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Bayonet | Safari Mesh",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Gut Knife | Case Hardened",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Gut Knife | Fade",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Karambit | Slaughter",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Gut Knife | Boreal Forest",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Bayonet | Boreal Forest",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Flip Knife | Blue Steel",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Gut Knife | Crimson Web",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Gut Knife | ★ (Vanilla)",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Flip Knife | ★ (Vanilla)",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Gut Knife | Stained",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Bayonet | Crimson Web",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Flip Knife | Safari Mesh",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Bayonet | Scorched",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Karambit | Scorched",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Bayonet | ★ (Vanilla)",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Karambit | Night",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Flip Knife | Slaughter",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Gut Knife | Slaughter",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Flip Knife | Scorched",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Flip Knife | Case Hardened",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Bayonet | Stained",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Bayonet | Slaughter",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Gut Knife | Night",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Gut Knife | Forest DDPAT",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Karambit | Fade",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Flip Knife | Fade",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Bayonet | Urban Masked",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Karambit | Blue Steel",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Bayonet | Fade",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Bayonet | Night",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Gut Knife | Blue Steel",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Bayonet | Blue Steel",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Bayonet | Case Hardened",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Karambit | Crimson Web",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Flip Knife | Forest DDPAT",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Flip Knife | Boreal Forest",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Gut Knife | Scorched",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Karambit | Stained",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Flip Knife | Stained",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Karambit | Case Hardened",
+        "can_be_stattrak": true
+      }
+    ],
+    "Covert Skins": [
+      {
+        "name": "Desert Eagle | Golden Koi",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "AK-47 | Fire Serpent",
+        "can_be_stattrak": true
+      }
+    ],
+    "Classified Skins": [
+      {
+        "name": "AWP | Graphite",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "P90 | Emerald Dragon",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "P2000 | Ocean Foam",
+        "can_be_stattrak": true
+      }
+    ],
+    "Restricted Skins": [
+      {
+        "name": "M4A1-S | Bright Water",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "MAC-10 | Graven",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "USP-S | Overgrowth",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "M4A4 | Zirka",
+        "can_be_stattrak": true
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "SG 553 | Wave Spray",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Nova | Tempest",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "G3SG1 | Demeter",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "UMP-45 | Bone Pile",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Galil AR | Shattered",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Dual Berettas | Black Limba",
+        "can_be_stattrak": true
+      }
+    ],
+    "Industrial Grade Skins": [],
+    "Consumer Grade Skins": []
+  }
+}

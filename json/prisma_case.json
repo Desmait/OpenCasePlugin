@@ -1,0 +1,182 @@
+{
+  "name": "Prisma Case",
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFUynfWaI25G6Ijkl9iPw_SnNrjXw2oBu8cj3b2Qo4_33QbnrUdlYD37ddCLMlhpvs0XIz0/256fx256f",
+  "content": {
+    "Rare Special Items": [
+      {
+        "name": "★ Talon Knife | Marble Fade",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Stiletto Knife | Rust Coat",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Talon Knife | Damascus Steel",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Ursus Knife | Rust Coat",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Ursus Knife | Ultraviolet",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Talon Knife | Doppler",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Stiletto Knife | Ultraviolet",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Navaja Knife | Tiger Tooth",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Ursus Knife | Doppler",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Navaja Knife | Damascus Steel",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Ursus Knife | Damascus Steel",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Navaja Knife | Doppler",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Navaja Knife | Rust Coat",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Stiletto Knife | Doppler",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Ursus Knife | Tiger Tooth",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Talon Knife | Ultraviolet",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Ursus Knife | Marble Fade",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Navaja Knife | Ultraviolet",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Navaja Knife | Marble Fade",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Stiletto Knife | Damascus Steel",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Stiletto Knife | Marble Fade",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Stiletto Knife | Tiger Tooth",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Talon Knife | Rust Coat",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Talon Knife | Tiger Tooth",
+        "can_be_stattrak": true
+      }
+    ],
+    "Covert Skins": [
+      {
+        "name": "Five-SeveN | Angry Mob",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "M4A4 | The Emperor",
+        "can_be_stattrak": true
+      }
+    ],
+    "Classified Skins": [
+      {
+        "name": "XM1014 | Incinegator",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "R8 Revolver | Skull Crusher",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "AUG | Momentum",
+        "can_be_stattrak": true
+      }
+    ],
+    "Restricted Skins": [
+      {
+        "name": "Desert Eagle | Light Rail",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "UMP-45 | Moonrise",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Tec-9 | Bamboozle",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "AWP | Atheris",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "MP5-SD | Gauss",
+        "can_be_stattrak": true
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "AK-47 | Uncharted",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "P90 | Off World",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Galil AR | Akoben",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "P250 | Verdigris",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "MP7 | Mischief",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "MAC-10 | Whitefish",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "FAMAS | Crypsis",
+        "can_be_stattrak": true
+      }
+    ],
+    "Industrial Grade Skins": [],
+    "Consumer Grade Skins": []
+  }
+}

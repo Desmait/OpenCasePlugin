@@ -1,0 +1,286 @@
+{
+  "name": "Danger Zone Case",
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFUxnaPLJz5H74y1xtTcz6etNumIx29U6Zd3j7yQoYih3lG1-UJqY27xJIeLMlhpaD9Aclo/256fx256f",
+  "content": {
+    "Rare Special Items": [
+      {
+        "name": "★ Talon Knife | ★ (Vanilla)",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Talon Knife | Fade",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Ursus Knife | Slaughter",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Navaja Knife | Stained",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Talon Knife | Crimson Web",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Stiletto Knife | Crimson Web",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Talon Knife | Stained",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Talon Knife | Case Hardened",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Ursus Knife | Fade",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Stiletto Knife | Fade",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Navaja Knife | Boreal Forest",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Talon Knife | Scorched",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Stiletto Knife | Forest DDPAT",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Talon Knife | Boreal Forest",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Ursus Knife | Scorched",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Talon Knife | Urban Masked",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Talon Knife | Safari Mesh",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Talon Knife | Forest DDPAT",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Navaja Knife | ★ (Vanilla)",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Stiletto Knife | Boreal Forest",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Navaja Knife | Scorched",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Ursus Knife | Urban Masked",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Stiletto Knife | ★ (Vanilla)",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Stiletto Knife | Scorched",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Ursus Knife | Safari Mesh",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Stiletto Knife | Slaughter",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Navaja Knife | Slaughter",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Ursus Knife | Blue Steel",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Navaja Knife | Forest DDPAT",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Talon Knife | Slaughter",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Stiletto Knife | Case Hardened",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Talon Knife | Night Stripe",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Navaja Knife | Fade",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Stiletto Knife | Safari Mesh",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Stiletto Knife | Urban Masked",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Navaja Knife | Blue Steel",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Stiletto Knife | Blue Steel",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Ursus Knife | Case Hardened",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Navaja Knife | Crimson Web",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Stiletto Knife | Stained",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Ursus Knife | Stained",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Stiletto Knife | Night Stripe",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Navaja Knife | Safari Mesh",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Ursus Knife | Night Stripe",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Navaja Knife | Case Hardened",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Talon Knife | Blue Steel",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Navaja Knife | Night Stripe",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Ursus Knife | ★ (Vanilla)",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Ursus Knife | Crimson Web",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Navaja Knife | Urban Masked",
+        "can_be_stattrak": true
+      }
+    ],
+    "Covert Skins": [
+      {
+        "name": "AK-47 | Asiimov",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "AWP | Neo-Noir",
+        "can_be_stattrak": true
+      }
+    ],
+    "Classified Skins": [
+      {
+        "name": "UMP-45 | Momentum",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Desert Eagle | Mecha Industries",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "MP5-SD | Phosphor",
+        "can_be_stattrak": true
+      }
+    ],
+    "Restricted Skins": [
+      {
+        "name": "USP-S | Flashback",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Galil AR | Signal",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "MAC-10 | Pipe Down",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "P250 | Nevermore",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "G3SG1 | Scavenger",
+        "can_be_stattrak": true
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "SG 553 | Danger Close",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Glock-18 | Oxide Blaze",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Nova | Wood Fired",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "M4A4 | Magnesium",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Sawed-Off | Black Sand",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Tec-9 | Fubar",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "MP9 | Modest Threat",
+        "can_be_stattrak": true
+      }
+    ],
+    "Industrial Grade Skins": [],
+    "Consumer Grade Skins": []
+  }
+}

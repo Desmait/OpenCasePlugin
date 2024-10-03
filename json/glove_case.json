@@ -1,0 +1,182 @@
+{
+  "name": "Glove Case",
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFY1naTMdzwTtNrukteIkqT2MO_Uwz5Q6cYhibyXo4rw2ALsrkRoYjuncNCLMlhpEV4XDTk/256fx256f",
+  "content": {
+    "Rare Special Items": [
+      {
+        "name": "★ Sport Gloves | Hedge Maze",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Driver Gloves | Diamondback",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Moto Gloves | Boom!",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Hand Wraps | Slaughter",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Driver Gloves | Lunar Weave",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Hand Wraps | Leather",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Bloodhound Gloves | Guerrilla",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Specialist Gloves | Crimson Kimono",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Bloodhound Gloves | Bronzed",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Moto Gloves | Spearmint",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Moto Gloves | Eclipse",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Moto Gloves | Cool Mint",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Driver Gloves | Crimson Weave",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Specialist Gloves | Foundation",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Bloodhound Gloves | Snakebite",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Specialist Gloves | Forest DDPAT",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Driver Gloves | Convoy",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Specialist Gloves | Emerald Web",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Sport Gloves | Superconductor",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Sport Gloves | Arid",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Hand Wraps | Spruce DDPAT",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Bloodhound Gloves | Charred",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Sport Gloves | Pandora's Box",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Hand Wraps | Badlands",
+        "can_be_stattrak": false
+      }
+    ],
+    "Covert Skins": [
+      {
+        "name": "SSG 08 | Dragonfire",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "M4A4 | Buzz Kill",
+        "can_be_stattrak": true
+      }
+    ],
+    "Classified Skins": [
+      {
+        "name": "P90 | Shallow Grave",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Sawed-Off | Wasteland Princess",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "FAMAS | Mecha Industries",
+        "can_be_stattrak": true
+      }
+    ],
+    "Restricted Skins": [
+      {
+        "name": "Dual Berettas | Royal Consorts",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "G3SG1 | Stinger",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Nova | Gila",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "M4A1-S | Flashback",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "USP-S | Cyrex",
+        "can_be_stattrak": true
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "MP7 | Cirrus",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "P2000 | Turf",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Galil AR | Black Sand",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "CZ75-Auto | Polymer",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "MP9 | Sand Scale",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Glock-18 | Ironwork",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "MAG-7 | Sonar",
+        "can_be_stattrak": true
+      }
+    ],
+    "Industrial Grade Skins": [],
+    "Consumer Grade Skins": []
+  }
+}

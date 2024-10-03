@@ -1,0 +1,134 @@
+{
+  "name": "Falchion Case",
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FF8ugPDMIWpAuIq1w4KIlaChZOyFwzgJuZNy3-2T89T0jlC2rhZla2vwIJjVLFHz75yKpg/256fx256f",
+  "content": {
+    "Rare Special Items": [
+      {
+        "name": "★ Falchion Knife | Night",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Falchion Knife | Safari Mesh",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Falchion Knife | Stained",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Falchion Knife | Scorched",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Falchion Knife | Blue Steel",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Falchion Knife | Case Hardened",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Falchion Knife | Slaughter",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Falchion Knife | Crimson Web",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Falchion Knife | Fade",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Falchion Knife | ★ (Vanilla)",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Falchion Knife | Forest DDPAT",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Falchion Knife | Boreal Forest",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Falchion Knife | Urban Masked",
+        "can_be_stattrak": true
+      }
+    ],
+    "Covert Skins": [
+      {
+        "name": "AWP | Hyper Beast",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "AK-47 | Aquamarine Revenge",
+        "can_be_stattrak": true
+      }
+    ],
+    "Classified Skins": [
+      {
+        "name": "MP7 | Nemesis",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "CZ75-Auto | Yellow Jacket",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "SG 553 | Cyrex",
+        "can_be_stattrak": true
+      }
+    ],
+    "Restricted Skins": [
+      {
+        "name": "MP9 | Ruby Poison Dart",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "P2000 | Handgun",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "M4A4 | Evil Daimyo",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Negev | Loudmouth",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "FAMAS | Neural Net",
+        "can_be_stattrak": true
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "USP-S | Torque",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "UMP-45 | Riot",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Glock-18 | Bunsen Burner",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Galil AR | Rocket Pop",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Nova | Ranger",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "P90 | Elite Build",
+        "can_be_stattrak": true
+      }
+    ],
+    "Industrial Grade Skins": [],
+    "Consumer Grade Skins": []
+  }
+}

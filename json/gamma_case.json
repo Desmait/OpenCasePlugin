@@ -1,0 +1,206 @@
+{
+  "name": "Gamma Case",
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFYznarJJjkQ6ovjw4SPlfP3auqEl2oBuJB1j--WoY322QziqkdpZGr3IteLMlhpw4RJCv8/256fx256f",
+  "content": {
+    "Rare Special Items": [
+      {
+        "name": "★ Karambit | Bright Water",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Gut Knife | Lore",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Flip Knife | Lore",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Gut Knife | Black Laminate",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Bayonet | Autotronic",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Gut Knife | Gamma Doppler",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Bayonet | Lore",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ M9 Bayonet | Bright Water",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Gut Knife | Freehand",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Bayonet | Bright Water",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Flip Knife | Autotronic",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Karambit | Black Laminate",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ M9 Bayonet | Gamma Doppler",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ M9 Bayonet | Autotronic",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Bayonet | Freehand",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ M9 Bayonet | Black Laminate",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Bayonet | Black Laminate",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Karambit | Lore",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Karambit | Gamma Doppler",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Flip Knife | Gamma Doppler",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Karambit | Autotronic",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Bayonet | Gamma Doppler",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ M9 Bayonet | Freehand",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Gut Knife | Autotronic",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Flip Knife | Freehand",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Flip Knife | Bright Water",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Karambit | Freehand",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Gut Knife | Bright Water",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ M9 Bayonet | Lore",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Flip Knife | Black Laminate",
+        "can_be_stattrak": true
+      }
+    ],
+    "Covert Skins": [
+      {
+        "name": "M4A1-S | Mecha Industries",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Glock-18 | Wasteland Rebel",
+        "can_be_stattrak": true
+      }
+    ],
+    "Classified Skins": [
+      {
+        "name": "P2000 | Imperial Dragon",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "M4A4 | Desolate Space",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "SCAR-20 | Bloodsport",
+        "can_be_stattrak": true
+      }
+    ],
+    "Restricted Skins": [
+      {
+        "name": "R8 Revolver | Reboot",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "AWP | Phobos",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Sawed-Off | Limelight",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "AUG | Aristocrat",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "P90 | Chopper",
+        "can_be_stattrak": true
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "Five-SeveN | Violent Daimyo",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Nova | Exo",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "P250 | Iron Clad",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Tec-9 | Ice Cap",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "MAC-10 | Carnivore",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "SG 553 | Aerial",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "PP-Bizon | Harvester",
+        "can_be_stattrak": true
+      }
+    ],
+    "Industrial Grade Skins": [],
+    "Consumer Grade Skins": []
+  }
+}

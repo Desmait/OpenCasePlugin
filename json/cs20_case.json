@@ -1,0 +1,138 @@
+{
+  "name": "CS20 Case",
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFU0naHKIj9D7oTgl4LelaGnMuqIwDgFusR337HCpYmhiwzm8ktqMjv2INKLMlhprbp6CTE/256fx256f",
+  "content": {
+    "Rare Special Items": [
+      {
+        "name": "★ Classic Knife | Blue Steel",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Classic Knife | Boreal Forest",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Classic Knife | Safari Mesh",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Classic Knife | Crimson Web",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Classic Knife | Forest DDPAT",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Classic Knife | Fade",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Classic Knife | ★ (Vanilla)",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Classic Knife | Slaughter",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Classic Knife | Urban Masked",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Classic Knife | Case Hardened",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Classic Knife | Stained",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Classic Knife | Scorched",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Classic Knife | Night Stripe",
+        "can_be_stattrak": true
+      }
+    ],
+    "Covert Skins": [
+      {
+        "name": "AWP | Wildfire",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "FAMAS | Commemoration",
+        "can_be_stattrak": true
+      }
+    ],
+    "Classified Skins": [
+      {
+        "name": "MP9 | Hydra",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "AUG | Death by Puppy",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "P90 | Nostalgia",
+        "can_be_stattrak": true
+      }
+    ],
+    "Restricted Skins": [
+      {
+        "name": "M249 | Aztec",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Five-SeveN | Buddy",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "P250 | Inferno",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "UMP-45 | Plastique",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "MP5-SD | Agent",
+        "can_be_stattrak": true
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "Glock-18 | Sacrifice",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Tec-9 | Flash Out",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "FAMAS | Decommissioned",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "MAC-10 | Classic Crate",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "SCAR-20 | Assault",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "MAG-7 | Popdog",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Dual Berettas | Elite 1.6",
+        "can_be_stattrak": true
+      }
+    ],
+    "Industrial Grade Skins": [],
+    "Consumer Grade Skins": []
+  }
+}

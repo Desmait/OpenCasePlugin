@@ -1,0 +1,126 @@
+{
+  "name": "Operation Breakout Weapon Case",
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFMu1aPMI24auITjxteJwPXxY72AkGgIvZAniLjHpon2jlbl-kpvNjz3JJjVLFG9rl1YLQ/256fx256f",
+  "content": {
+    "Rare Special Items": [
+      {
+        "name": "★ Butterfly Knife | Slaughter",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Butterfly Knife | Night",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Butterfly Knife | Safari Mesh",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Butterfly Knife | ★ (Vanilla)",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Butterfly Knife | Fade",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Butterfly Knife | Blue Steel",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Butterfly Knife | Case Hardened",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Butterfly Knife | Crimson Web",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Butterfly Knife | Scorched",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Butterfly Knife | Stained",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Butterfly Knife | Forest DDPAT",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Butterfly Knife | Boreal Forest",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Butterfly Knife | Urban Masked",
+        "can_be_stattrak": true
+      }
+    ],
+    "Covert Skins": [
+      {
+        "name": "M4A1-S | Cyrex",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "P90 | Asiimov",
+        "can_be_stattrak": true
+      }
+    ],
+    "Classified Skins": [
+      {
+        "name": "Glock-18 | Water Elemental",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Five-SeveN | Fowl Play",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Desert Eagle | Conspiracy",
+        "can_be_stattrak": true
+      }
+    ],
+    "Restricted Skins": [
+      {
+        "name": "CZ75-Auto | Tigris",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Nova | Koi",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "PP-Bizon | Osiris",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "P250 | Supernova",
+        "can_be_stattrak": true
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "SSG 08 | Abyss",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "MP7 | Urban Hazard",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "UMP-45 | Labyrinth",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "P2000 | Ivory",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Negev | Desert-Strike",
+        "can_be_stattrak": true
+      }
+    ],
+    "Industrial Grade Skins": [],
+    "Consumer Grade Skins": []
+  }
+}

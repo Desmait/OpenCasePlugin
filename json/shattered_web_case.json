@@ -1,0 +1,286 @@
+{
+  "name": "Shattered Web Case",
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFUznaCaJWVDvozlzdONwvKjYLiBk24IsZEl0uuYrNjw0A3n80JpZWzwIYWLMlhpLvhcskA/256fx256f",
+  "content": {
+    "Rare Special Items": [
+      {
+        "name": "★ Paracord Knife | Scorched",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Nomad Knife | Forest DDPAT",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Survival Knife | Forest DDPAT",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Nomad Knife | ★ (Vanilla)",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Paracord Knife | Urban Masked",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Skeleton Knife | Scorched",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Skeleton Knife | Case Hardened",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Survival Knife | Safari Mesh",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Paracord Knife | Case Hardened",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Paracord Knife | Safari Mesh",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Paracord Knife | Blue Steel",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Nomad Knife | Crimson Web",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Survival Knife | Case Hardened",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Skeleton Knife | Blue Steel",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Paracord Knife | Boreal Forest",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Skeleton Knife | Stained",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Survival Knife | Fade",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Survival Knife | Night Stripe",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Paracord Knife | Forest DDPAT",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Survival Knife | Boreal Forest",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Nomad Knife | Stained",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Paracord Knife | ★ (Vanilla)",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Nomad Knife | Safari Mesh",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Nomad Knife | Boreal Forest",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Paracord Knife | Crimson Web",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Skeleton Knife | Night Stripe",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Survival Knife | Blue Steel",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Nomad Knife | Fade",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Nomad Knife | Blue Steel",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Paracord Knife | Stained",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Skeleton Knife | Urban Masked",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Survival Knife | Crimson Web",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Skeleton Knife | Forest DDPAT",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Skeleton Knife | Safari Mesh",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Nomad Knife | Night Stripe",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Skeleton Knife | Crimson Web",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Nomad Knife | Urban Masked",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Nomad Knife | Scorched",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Nomad Knife | Slaughter",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Skeleton Knife | Fade",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Survival Knife | ★ (Vanilla)",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Survival Knife | Slaughter",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Survival Knife | Stained",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Paracord Knife | Fade",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Skeleton Knife | Boreal Forest",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Skeleton Knife | ★ (Vanilla)",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Nomad Knife | Case Hardened",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Skeleton Knife | Slaughter",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Paracord Knife | Slaughter",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Paracord Knife | Night Stripe",
+        "can_be_stattrak": true
+      }
+    ],
+    "Covert Skins": [
+      {
+        "name": "AWP | Containment Breach",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "MAC-10 | Stalker",
+        "can_be_stattrak": true
+      }
+    ],
+    "Classified Skins": [
+      {
+        "name": "SSG 08 | Bloodshot",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "SG 553 | Colony IV",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Tec-9 | Decimator",
+        "can_be_stattrak": true
+      }
+    ],
+    "Restricted Skins": [
+      {
+        "name": "PP-Bizon | Embargo",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "AUG | Arctic Wolf",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "AK-47 | Rat Rod",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "MP7 | Neon Ply",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "P2000 | Obsidian",
+        "can_be_stattrak": true
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "SCAR-20 | Torn",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Nova | Plume",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "G3SG1 | Black Sand",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Dual Berettas | Balance",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "M249 | Warbird",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "MP5-SD | Acid Wash",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "R8 Revolver | Memento",
+        "can_be_stattrak": true
+      }
+    ],
+    "Industrial Grade Skins": [],
+    "Consumer Grade Skins": []
+  }
+}

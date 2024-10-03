@@ -1,0 +1,134 @@
+{
+  "name": "Shadow Case",
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FF4u1qubIW4Su4mzxYHbzqGtZ-KGlz8EuJcg3rnE9NiijVe3_UY-Zzr2JJjVLFEEeiQRtg/256fx256f",
+  "content": {
+    "Rare Special Items": [
+      {
+        "name": "★ Shadow Daggers | Safari Mesh",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Shadow Daggers | Forest DDPAT",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Shadow Daggers | Fade",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Shadow Daggers | Slaughter",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Shadow Daggers | Urban Masked",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Shadow Daggers | ★ (Vanilla)",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Shadow Daggers | Scorched",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Shadow Daggers | Crimson Web",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Shadow Daggers | Stained",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Shadow Daggers | Blue Steel",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Shadow Daggers | Case Hardened",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Shadow Daggers | Night",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Shadow Daggers | Boreal Forest",
+        "can_be_stattrak": true
+      }
+    ],
+    "Covert Skins": [
+      {
+        "name": "USP-S | Kill Confirmed",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "M4A1-S | Golden Coil",
+        "can_be_stattrak": true
+      }
+    ],
+    "Classified Skins": [
+      {
+        "name": "AK-47 | Frontside Misty",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "SSG 08 | Big Iron",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "G3SG1 | Flux",
+        "can_be_stattrak": true
+      }
+    ],
+    "Restricted Skins": [
+      {
+        "name": "P250 | Wingshot",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "M249 | Nebula Crusader",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Galil AR | Stone Cold",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "MP7 | Special Delivery",
+        "can_be_stattrak": true
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "SCAR-20 | Green Marine",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "XM1014 | Scumbria",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "MAG-7 | Cobalt Core",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Dual Berettas | Dualing Dragons",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "FAMAS | Survivor Z",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "MAC-10 | Rangeen",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Glock-18 | Wraiths",
+        "can_be_stattrak": true
+      }
+    ],
+    "Industrial Grade Skins": [],
+    "Consumer Grade Skins": []
+  }
+}

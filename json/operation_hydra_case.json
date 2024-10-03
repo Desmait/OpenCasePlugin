@@ -1,0 +1,182 @@
+{
+  "name": "Operation Hydra Case",
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFY3navMJWgQtNm1ldLZzvOiZr-BlToIsZcoi-yTpdutiVW2-Es4NWjwIo-LMlhpinMS53M/256fx256f",
+  "content": {
+    "Rare Special Items": [
+      {
+        "name": "★ Sport Gloves | Hedge Maze",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Driver Gloves | Diamondback",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Moto Gloves | Boom!",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Hand Wraps | Slaughter",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Driver Gloves | Lunar Weave",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Hand Wraps | Leather",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Bloodhound Gloves | Guerrilla",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Specialist Gloves | Crimson Kimono",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Bloodhound Gloves | Bronzed",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Moto Gloves | Spearmint",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Moto Gloves | Eclipse",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Moto Gloves | Cool Mint",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Driver Gloves | Crimson Weave",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Specialist Gloves | Foundation",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Bloodhound Gloves | Snakebite",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Specialist Gloves | Forest DDPAT",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Driver Gloves | Convoy",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Specialist Gloves | Emerald Web",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Sport Gloves | Superconductor",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Sport Gloves | Arid",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Hand Wraps | Spruce DDPAT",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Bloodhound Gloves | Charred",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Sport Gloves | Pandora's Box",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Hand Wraps | Badlands",
+        "can_be_stattrak": false
+      }
+    ],
+    "Covert Skins": [
+      {
+        "name": "AWP | Oni Taiji",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Five-SeveN | Hyper Beast",
+        "can_be_stattrak": true
+      }
+    ],
+    "Classified Skins": [
+      {
+        "name": "Dual Berettas | Cobra Strike",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "M4A4 | Hellfire",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Galil AR | Sugar Rush",
+        "can_be_stattrak": true
+      }
+    ],
+    "Restricted Skins": [
+      {
+        "name": "SSG 08 | Death's Head",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "P250 | Red Rock",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "AK-47 | Orbit Mk01",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "P90 | Death Grip",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "P2000 | Woodsman",
+        "can_be_stattrak": true
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "UMP-45 | Metal Flowers",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "M4A1-S | Briefing",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Tec-9 | Cut Out",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "USP-S | Blueprint",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "MAC-10 | Aloha",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "MAG-7 | Hard Water",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "FAMAS | Macabre",
+        "can_be_stattrak": true
+      }
+    ],
+    "Industrial Grade Skins": [],
+    "Consumer Grade Skins": []
+  }
+}

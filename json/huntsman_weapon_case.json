@@ -1,0 +1,130 @@
+{
+  "name": "Huntsman Weapon Case",
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFQu0PaQIm9DtY6wzYaIxKWtN7iJwW8G6Z0h2LqWoY6s2Qy2-0Q_Nzv7IJjVLFGZqUbjlQ/256fx256f",
+  "content": {
+    "Rare Special Items": [
+      {
+        "name": "★ Huntsman Knife | Night",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Huntsman Knife | Urban Masked",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Huntsman Knife | Boreal Forest",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Huntsman Knife | Case Hardened",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Huntsman Knife | Blue Steel",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Huntsman Knife | Stained",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Huntsman Knife | Crimson Web",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Huntsman Knife | Scorched",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Huntsman Knife | ★ (Vanilla)",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Huntsman Knife | Slaughter",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Huntsman Knife | Safari Mesh",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Huntsman Knife | Fade",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Huntsman Knife | Forest DDPAT",
+        "can_be_stattrak": true
+      }
+    ],
+    "Covert Skins": [
+      {
+        "name": "AK-47 | Vulcan",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "M4A4 | Desert-Strike",
+        "can_be_stattrak": true
+      }
+    ],
+    "Classified Skins": [
+      {
+        "name": "M4A1-S | Atomic Alloy",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "USP-S | Caiman",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "SCAR-20 | Cyrex",
+        "can_be_stattrak": true
+      }
+    ],
+    "Restricted Skins": [
+      {
+        "name": "PP-Bizon | Antique",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "XM1014 | Heaven Guard",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "AUG | Torque",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "MAC-10 | Tatter",
+        "can_be_stattrak": true
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "P2000 | Pulse",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "CZ75-Auto | Twist",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Tec-9 | Isaac",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "P90 | Module",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "SSG 08 | Slashed",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Galil AR | Kami",
+        "can_be_stattrak": true
+      }
+    ],
+    "Industrial Grade Skins": [],
+    "Consumer Grade Skins": []
+  }
+}

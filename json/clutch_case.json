@@ -1,0 +1,182 @@
+{
+  "name": "Clutch Case",
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFY5naqQIz4R7Yjix9bZkvKiZrmAzzlTu5AoibiT8d_x21Wy8hY_MWz1doSLMlhpM3FKbNs/256fx256f",
+  "content": {
+    "Rare Special Items": [
+      {
+        "name": "★ Sport Gloves | Omega",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Hydra Gloves | Emerald",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Sport Gloves | Vice",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Sport Gloves | Amphibious",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Hydra Gloves | Rattler",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Driver Gloves | Overtake",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Hydra Gloves | Mangrove",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Moto Gloves | Turtle",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Driver Gloves | Imperial Plaid",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Driver Gloves | Racing Green",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Moto Gloves | Polygon",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Hydra Gloves | Case Hardened",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Moto Gloves | Transport",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Specialist Gloves | Fade",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Hand Wraps | Duct Tape",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Moto Gloves | POW!",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Driver Gloves | King Snake",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Specialist Gloves | Buckshot",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Hand Wraps | Overprint",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Specialist Gloves | Crimson Web",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Specialist Gloves | Mogul",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Hand Wraps | Cobalt Skulls",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Sport Gloves | Bronze Morph",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Hand Wraps | Arboreal",
+        "can_be_stattrak": false
+      }
+    ],
+    "Covert Skins": [
+      {
+        "name": "M4A4 | Neo-Noir",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "MP7 | Bloodsport",
+        "can_be_stattrak": true
+      }
+    ],
+    "Classified Skins": [
+      {
+        "name": "USP-S | Cortex",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "AWP | Mortis",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "AUG | Stymphalian",
+        "can_be_stattrak": true
+      }
+    ],
+    "Restricted Skins": [
+      {
+        "name": "Glock-18 | Moonrise",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Nova | Wild Six",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "MAG-7 | SWAG-7",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Negev | Lionfish",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "UMP-45 | Arctic Wolf",
+        "can_be_stattrak": true
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "PP-Bizon | Night Riot",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "XM1014 | Oxide Blaze",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "SG 553 | Aloha",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "R8 Revolver | Grip",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "P2000 | Urban Hazard",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "MP9 | Black Sand",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Five-SeveN | Flame Test",
+        "can_be_stattrak": true
+      }
+    ],
+    "Industrial Grade Skins": [],
+    "Consumer Grade Skins": []
+  }
+}

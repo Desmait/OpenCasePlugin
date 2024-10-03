@@ -1,0 +1,206 @@
+{
+  "name": "Chroma 3 Case",
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFYynaSdJGhE74y0wNWIw_OlNuvXkDpSuZQmi--SrN-h3gey-Uo6YWmlIoCLMlhplhFFvwI/256fx256f",
+  "content": {
+    "Rare Special Items": [
+      {
+        "name": "★ Karambit | Damascus Steel",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Bayonet | Marble Fade",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Gut Knife | Rust Coat",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Gut Knife | Doppler",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Karambit | Tiger Tooth",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Flip Knife | Damascus Steel",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Gut Knife | Marble Fade",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Karambit | Marble Fade",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Bayonet | Damascus Steel",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Gut Knife | Ultraviolet",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ M9 Bayonet | Tiger Tooth",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Karambit | Doppler",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Bayonet | Doppler",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Bayonet | Tiger Tooth",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Flip Knife | Doppler",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Flip Knife | Ultraviolet",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Bayonet | Ultraviolet",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Karambit | Rust Coat",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ M9 Bayonet | Marble Fade",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Bayonet | Rust Coat",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ M9 Bayonet | Ultraviolet",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Flip Knife | Rust Coat",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Karambit | Ultraviolet",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Gut Knife | Tiger Tooth",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Flip Knife | Marble Fade",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ M9 Bayonet | Doppler",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Gut Knife | Damascus Steel",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Flip Knife | Tiger Tooth",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ M9 Bayonet | Damascus Steel",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ M9 Bayonet | Rust Coat",
+        "can_be_stattrak": true
+      }
+    ],
+    "Covert Skins": [
+      {
+        "name": "PP-Bizon | Judgement of Anubis",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "M4A1-S | Chantico's Fire",
+        "can_be_stattrak": true
+      }
+    ],
+    "Classified Skins": [
+      {
+        "name": "UMP-45 | Primal Saber",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "P250 | Asiimov",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "AUG | Fleet Flock",
+        "can_be_stattrak": true
+      }
+    ],
+    "Restricted Skins": [
+      {
+        "name": "CZ75-Auto | Red Astor",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Galil AR | Firefight",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Tec-9 | Re-Entry",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "XM1014 | Black Tie",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "SSG 08 | Ghost Crusader",
+        "can_be_stattrak": true
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "G3SG1 | Orange Crash",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "M249 | Spectre",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Sawed-Off | Fubar",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "MP9 | Bioleak",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "P2000 | Oceanic",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Dual Berettas | Ventilators",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "SG 553 | Atlas",
+        "can_be_stattrak": true
+      }
+    ],
+    "Industrial Grade Skins": [],
+    "Consumer Grade Skins": []
+  }
+}

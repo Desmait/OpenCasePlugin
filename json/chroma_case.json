@@ -1,0 +1,194 @@
+{
+  "name": "Chroma Case",
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFEuh_KQJTtEuI63xIXbxqOtauyClTMEsJV1jruS89T3iQKx_BBqa2j3JpjVLFH1xpp0EQ/256fx256f",
+  "content": {
+    "Rare Special Items": [
+      {
+        "name": "★ Karambit | Damascus Steel",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Bayonet | Marble Fade",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Gut Knife | Rust Coat",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Gut Knife | Doppler",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Karambit | Tiger Tooth",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Flip Knife | Damascus Steel",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Gut Knife | Marble Fade",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Karambit | Marble Fade",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Bayonet | Damascus Steel",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Gut Knife | Ultraviolet",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ M9 Bayonet | Tiger Tooth",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Karambit | Doppler",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Bayonet | Doppler",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Bayonet | Tiger Tooth",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Flip Knife | Doppler",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Flip Knife | Ultraviolet",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Bayonet | Ultraviolet",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Karambit | Rust Coat",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ M9 Bayonet | Marble Fade",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Bayonet | Rust Coat",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ M9 Bayonet | Ultraviolet",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Flip Knife | Rust Coat",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Karambit | Ultraviolet",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Gut Knife | Tiger Tooth",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Flip Knife | Marble Fade",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ M9 Bayonet | Doppler",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Gut Knife | Damascus Steel",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Flip Knife | Tiger Tooth",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ M9 Bayonet | Damascus Steel",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ M9 Bayonet | Rust Coat",
+        "can_be_stattrak": true
+      }
+    ],
+    "Covert Skins": [
+      {
+        "name": "AWP | Man-o'-war",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Galil AR | Chatterbox",
+        "can_be_stattrak": true
+      }
+    ],
+    "Classified Skins": [
+      {
+        "name": "M4A4 | 龍王 (Dragon King)",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "AK-47 | Cartel",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "P250 | Muertos",
+        "can_be_stattrak": true
+      }
+    ],
+    "Restricted Skins": [
+      {
+        "name": "Dual Berettas | Urban Shock",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Sawed-Off | Serenity",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "MAC-10 | Malachite",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Desert Eagle | Naga",
+        "can_be_stattrak": true
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "MP9 | Deadly Poison",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Glock-18 | Catacombs",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "M249 | System Lock",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "XM1014 | Quicksilver",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "SCAR-20 | Grotto",
+        "can_be_stattrak": true
+      }
+    ],
+    "Industrial Grade Skins": [],
+    "Consumer Grade Skins": []
+  }
+}

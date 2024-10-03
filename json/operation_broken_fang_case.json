@@ -1,0 +1,182 @@
+{
+  "name": "Operation Broken Fang Case",
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFU3naeZIWUStYjgxdnewfGmZb6DxW8AupMp27yT9IqiilCxqkRkZGyldoaLMlhp6IQjKcg/256fx256f",
+  "content": {
+    "Rare Special Items": [
+      {
+        "name": "★ Moto Gloves | Finish Line",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Sport Gloves | Slingshot",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Broken Fang Gloves | Jade",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Broken Fang Gloves | Yellow-banded",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Moto Gloves | Smoke Out",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Driver Gloves | Rezan the Red",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Hand Wraps | Giraffe",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Sport Gloves | Scarlet Shamagh",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Hand Wraps | Desert Shamagh",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Specialist Gloves | Field Agent",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Specialist Gloves | Tiger Strike",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Specialist Gloves | Marble Fade",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Hand Wraps | CAUTION!",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Sport Gloves | Nocts",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Driver Gloves | Snow Leopard",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Broken Fang Gloves | Needle Point",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Moto Gloves | Blood Pressure",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Moto Gloves | 3rd Commando Company",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Specialist Gloves | Lt. Commander",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Sport Gloves | Big Game",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Driver Gloves | Queen Jaguar",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Hand Wraps | Constrictor",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Broken Fang Gloves | Unhinged",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "★ Driver Gloves | Black Tie",
+        "can_be_stattrak": false
+      }
+    ],
+    "Covert Skins": [
+      {
+        "name": "M4A1-S | Printstream",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Glock-18 | Neo-Noir",
+        "can_be_stattrak": true
+      }
+    ],
+    "Classified Skins": [
+      {
+        "name": "Five-SeveN | Fairy Tale",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "USP-S | Monster Mashup",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "M4A4 | Cyber Security",
+        "can_be_stattrak": true
+      }
+    ],
+    "Restricted Skins": [
+      {
+        "name": "AWP | Exoskeleton",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "UMP-45 | Gold Bismuth",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Dual Berettas | Dezastre",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "SSG 08 | Parallax",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Nova | Clear Polymer",
+        "can_be_stattrak": true
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "P250 | Contaminant",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "M249 | Deep Relief",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "G3SG1 | Digital Mesh",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "P90 | Cocoa Rampage",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "CZ75-Auto | Vendetta",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Galil AR | Vandal",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "MP5-SD | Condition Zero",
+        "can_be_stattrak": true
+      }
+    ],
+    "Industrial Grade Skins": [],
+    "Consumer Grade Skins": []
+  }
+}

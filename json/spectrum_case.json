@@ -1,0 +1,206 @@
+{
+  "name": "Spectrum Case",
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFY2nfKadD4U7Y7lwYXexaGlYb3QzjlUvZ0k0ujHptug2VbirkRrNW2md4SLMlhph09hpX0/256fx256f",
+  "content": {
+    "Rare Special Items": [
+      {
+        "name": "★ Shadow Daggers | Damascus Steel",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Butterfly Knife | Ultraviolet",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Huntsman Knife | Tiger Tooth",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Shadow Daggers | Ultraviolet",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Shadow Daggers | Doppler",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Falchion Knife | Tiger Tooth",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Butterfly Knife | Rust Coat",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Shadow Daggers | Rust Coat",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Falchion Knife | Marble Fade",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Huntsman Knife | Rust Coat",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Falchion Knife | Rust Coat",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Butterfly Knife | Tiger Tooth",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Huntsman Knife | Marble Fade",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Falchion Knife | Doppler",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Bowie Knife | Tiger Tooth",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Bowie Knife | Rust Coat",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Huntsman Knife | Ultraviolet",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Bowie Knife | Doppler",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Bowie Knife | Ultraviolet",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Shadow Daggers | Marble Fade",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Butterfly Knife | Doppler",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Shadow Daggers | Tiger Tooth",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Butterfly Knife | Marble Fade",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Falchion Knife | Ultraviolet",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Huntsman Knife | Doppler",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Bowie Knife | Marble Fade",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Bowie Knife | Damascus Steel",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Butterfly Knife | Damascus Steel",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Falchion Knife | Damascus Steel",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Huntsman Knife | Damascus Steel",
+        "can_be_stattrak": true
+      }
+    ],
+    "Covert Skins": [
+      {
+        "name": "USP-S | Neo-Noir",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "AK-47 | Bloodsport",
+        "can_be_stattrak": true
+      }
+    ],
+    "Classified Skins": [
+      {
+        "name": "CZ75-Auto | Xiangliu",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "AWP | Fever Dream",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "M4A1-S | Decimator",
+        "can_be_stattrak": true
+      }
+    ],
+    "Restricted Skins": [
+      {
+        "name": "UMP-45 | Scaffold",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Galil AR | Crimson Tsunami",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "XM1014 | Seasons",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "M249 | Emerald Poison Dart",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "MAC-10 | Last Dive",
+        "can_be_stattrak": true
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "Desert Eagle | Oxide Blaze",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "MP7 | Akoben",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Sawed-Off | Zander",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "PP-Bizon | Jungle Slipstream",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "P250 | Ripple",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "SCAR-20 | Blueprint",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Five-SeveN | Capillary",
+        "can_be_stattrak": true
+      }
+    ],
+    "Industrial Grade Skins": [],
+    "Consumer Grade Skins": []
+  }
+}

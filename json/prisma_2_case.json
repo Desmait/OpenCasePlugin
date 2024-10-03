@@ -1,0 +1,182 @@
+{
+  "name": "Prisma 2 Case",
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFU1nfbOIj8W7oWzkYLdlPOsMOmIk2kGscAj2erE99Sn2AGw_0M4NW2hIYOLMlhpcmY0CRM/256fx256f",
+  "content": {
+    "Rare Special Items": [
+      {
+        "name": "★ Talon Knife | Marble Fade",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Stiletto Knife | Rust Coat",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Talon Knife | Damascus Steel",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Ursus Knife | Rust Coat",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Ursus Knife | Ultraviolet",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Talon Knife | Doppler",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Stiletto Knife | Ultraviolet",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Navaja Knife | Tiger Tooth",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Ursus Knife | Doppler",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Navaja Knife | Damascus Steel",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Ursus Knife | Damascus Steel",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Navaja Knife | Doppler",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Navaja Knife | Rust Coat",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Stiletto Knife | Doppler",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Ursus Knife | Tiger Tooth",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Talon Knife | Ultraviolet",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Ursus Knife | Marble Fade",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Navaja Knife | Ultraviolet",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Navaja Knife | Marble Fade",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Stiletto Knife | Damascus Steel",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Stiletto Knife | Marble Fade",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Stiletto Knife | Tiger Tooth",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Talon Knife | Rust Coat",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "★ Talon Knife | Tiger Tooth",
+        "can_be_stattrak": true
+      }
+    ],
+    "Covert Skins": [
+      {
+        "name": "M4A1-S | Player Two",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Glock-18 | Bullet Queen",
+        "can_be_stattrak": true
+      }
+    ],
+    "Classified Skins": [
+      {
+        "name": "AK-47 | Phantom Disruptor",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "MAC-10 | Disco Tech",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "MAG-7 | Justice",
+        "can_be_stattrak": true
+      }
+    ],
+    "Restricted Skins": [
+      {
+        "name": "SG 553 | Darkwing",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "SCAR-20 | Enforcer",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Sawed-Off | Apocalypto",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "SSG 08 | Fever Dream",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "P2000 | Acid Etched",
+        "can_be_stattrak": true
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "CZ75-Auto | Distressed",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Desert Eagle | Blue Ply",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "AUG | Tom Cat",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "AWP | Capillary",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "MP5-SD | Desert Strike",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Negev | Prototype",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "R8 Revolver | Bone Forged",
+        "can_be_stattrak": true
+      }
+    ],
+    "Industrial Grade Skins": [],
+    "Consumer Grade Skins": []
+  }
+}
