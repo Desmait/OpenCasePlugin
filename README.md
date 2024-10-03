@@ -2,6 +2,13 @@
 
 A simple plugin for CS2 servers that allows players to open in-game cases through commands. The plugin outputs the results directly in the chat without any case-opening animations.
 
+## Features
+
+- Simulates opening various CS2 weapon cases
+- Displays the obtained item to all players in the chat
+- Includes StatTrak™ and rare special item possibilities
+- Easy-to-use chat commands for listing available cases and opening them
+
 ## Commands
 
 - **`!case`**: Displays a list of available case-related commands.
@@ -10,7 +17,10 @@ A simple plugin for CS2 servers that allows players to open in-game cases throug
 
 ## Requirements and Installation
 
-- **[ResourceMod](https://rmod.dev/docs/getting-started)** is required for this plugin to work. Please refer to the [installation guide](https://rmod.dev/docs/getting-started) to set it up.
+1. Ensure you have [CounterStrikeSharp](https://github.com/roflmuffin/CounterStrikeSharp) installed on your CS2 server.
+2. Download the latest release of the Open Case Plugin.
+3. Extract the contents into your `addons/counterstrikesharp/plugins` directory.
+4. Restart your server or load the plugin using the appropriate CounterStrikeSharp commands.
 
 ## Notes
 
