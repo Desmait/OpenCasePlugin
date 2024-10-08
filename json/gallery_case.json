@@ -1,0 +1,135 @@
+{
+  "name": "Gallery Case",
+  "content": {
+    "Rare Special Items": [
+      {
+        "name": "Kukri Knife | Blue Steel",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Kukri Knife | Night Stripe",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Kukri Knife | Crimson Web",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Kukri Knife | Slaughter",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Kukri Knife | Stained",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Kukri Knife | Urban Masked",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Kukri Knife | Safari Mesh",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Kukri Knife | Case Hardened",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Kukri Knife | Forest DDPAT",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Kukri Knife | Boreal Forest",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Kukri Knife | Scorched",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Kukri Knife | Vanilla",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Kukri Knife | Fade",
+        "can_be_stattrak": true
+      }
+    ],
+    "Covert Skins": [
+      {
+        "name": "M4A1-S | Vaporwave",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Glock-18 | Gold Toof",
+        "can_be_stattrak": true
+      }
+    ],
+    "Classified Skins": [
+      {
+        "name": "P250 | Epicenter",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "AK-47 | The Outriders",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "UMP-45 | Neo-Noir",
+        "can_be_stattrak": true
+      }
+    ],
+    "Restricted Skins": [
+      {
+        "name": "SG 553 | Rapid Transit",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "P90 | Candy Rush",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "MAC-10 | Sakkaku",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "M4A4 | Turbine",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Dual Berettas | Hydra Strike",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "USP-S | 027",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "SCAR-20 | Trail Blazer",
+        "can_be_stattrak": true
+      }
+    ],
+    "Mil-Spec Grade Skins": [
+      {
+        "name": "R8 Revolver | Tango",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "MP5-SD | Statics",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "XM1014 | Hypnosis",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Desert Eagle | Caligraffiti",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "AUG | Lux Trim",
+        "can_be_stattrak": true
+      }
+    ]
+  }
+}

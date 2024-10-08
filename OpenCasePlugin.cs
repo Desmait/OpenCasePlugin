@@ -10,18 +10,18 @@ namespace OpenCasePlugin
     public class OpenCasePlugin : BasePlugin
     {
         public override string ModuleName => "Open Case Plugin";
-        public override string ModuleVersion => "0.1.0";
+        public override string ModuleVersion => "1.0.1";
 
         private string JsonDirectoryPath => Path.Combine(ModuleDirectory, "json");
 
         private static readonly string[] CaseNames = new string[]
         {
-            "Chroma", "Chroma 2", "Chroma 3", "CS20", "Clutch", "CS:GO Weapon", "CS:GO Weapon 2", "CS:GO Weapon 3",
-            "Danger Zone", "eSports 2013", "eSports 2013 Winter", "eSports 2014 Summer", "Falchion", "Fracture",
-            "Gamma", "Gamma 2", "Glove", "Horizon", "Huntsman Weapon", "Operation Bravo", "Operation Breakout",
-            "Operation Broken Fang", "Operation Hydra", "Operation Phoenix", "Operation Vanguard", "Operation Wildfire",
-            "Prisma", "Prisma 2", "Revolver", "Shadow", "Shattered Web", "Snakebite", "Spectrum", "Spectrum 2",
-            "Winter Offensive"
+            "Gallery", "Kilowatt", "Revolution", "Recoil", "Dreams & Nightmares", "Operation Riptide", "Snakebite",
+            "Operation Broken Fang", "Fracture", "Prisma 2", "Shattered Web", "CS20", "Prisma", "Danger Zone", "Clutch", 
+            "Spectrum 2", "Operation Hydra", "Spectrum", "Glove", "Gamma 2", "Gamma", "Chroma 3", "Operation Wildfire",
+            "Revolver", "Shadow", "Falchion", "Chroma 2", "Chroma", "Operation Vanguard", "Operation Breakout",
+            "Huntsman Weapon", "Operation Phoenix", "CS:GO Weapon Case 3", "Winter Offensive", "eSports 2013 Winter",
+            "CS:GO Weapon Case 2", "Operation Bravo", "CS:GO Weapon Case", "eSports 2013"
         };
 
         private static readonly Dictionary<string, string> RarityColors = new Dictionary<string, string>
@@ -45,7 +45,7 @@ namespace OpenCasePlugin
         public override void Load(bool hotReload)
         {
             base.Load(hotReload);
-            
+
             Directory.CreateDirectory(JsonDirectoryPath);
         }
 
@@ -118,7 +118,7 @@ namespace OpenCasePlugin
             {
                 string jsonFileName = CaseNameToJson(caseName);
                 string filePath = Path.Combine(JsonDirectoryPath, jsonFileName);
-                
+
                 if (!File.Exists(filePath))
                 {
                     Console.WriteLine($"JSON file not found: {filePath}");
@@ -142,7 +142,7 @@ namespace OpenCasePlugin
                 }
 
                 var randomItem = items[new Random().Next(items.Count)];
-                
+
                 if (randomItem.can_be_stattrak && new Random().Next(10) == 0)
                 {
                     randomItem.name = selectedRarity == "Rare Special Items" && randomItem.name.StartsWith("★")

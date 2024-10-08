@@ -1,0 +1,203 @@
+{
+  "name": "Dreams & Nightmares",
+  "content": {
+    "Rare Special Items": [
+      {
+        "name": "Bowie Knife | Gamma Doppler",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Bowie Knife | Lore",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Bowie Knife | Autotronic",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Bowie Knife | Freehand",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Bowie Knife | Black Laminate",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Bowie Knife | Bright Water",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Butterfly Knife | Autotronic",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Butterfly Knife | Lore",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Butterfly Knife | Black Laminate",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Butterfly Knife | Freehand",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Butterfly Knife | Bright Water",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Butterfly Knife | Gamma Doppler",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Falchion Knife | Gamma Doppler",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Falchion Knife | Autotronic",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Falchion Knife | Lore",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Falchion Knife | Black Laminate",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Falchion Knife | Freehand",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Falchion Knife | Bright Water",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Huntsman Knife | Gamma Doppler",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Huntsman Knife | Lore",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Huntsman Knife | Autotronic",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Huntsman Knife | Freehand",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Huntsman Knife | Bright Water",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Huntsman Knife | Black Laminate",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Shadow Daggers | Gamma Doppler",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Shadow Daggers | Lore",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Shadow Daggers | Autotronic",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Shadow Daggers | Freehand",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Shadow Daggers | Black Laminate",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Shadow Daggers | Bright Water",
+        "can_be_stattrak": true
+      }
+    ],
+    "Covert Skins": [
+      {
+        "name": "AK-47 | Nightwish",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "MP9 | Starlight Protector",
+        "can_be_stattrak": true
+      }
+    ],
+    "Classified Skins": [
+      {
+        "name": "FAMAS | Rapid Eye Movement",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "MP7 | Abyssal Apparition",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Dual Berettas | Melondrama",
+        "can_be_stattrak": true
+      }
+    ],
+    "Restricted Skins": [
+      {
+        "name": "M4A1-S | Night Terror",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "USP-S | Ticket to Hell",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "G3SG1 | Dream Glade",
+        "can_be_stattrak": true
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "PP-Bizon | Space Cat",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "XM1014 | Zombie Offensive",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Five-SeveN | Scrawl",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "MAC-10 | Ensnared",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "MP5-SD | Necro Jr.",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Sawed-Off | Spirit Board",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "P2000 | Lifted Spirits",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "SCAR-20 | Poultrygeist",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "MAG-7 | Foresight",
+        "can_be_stattrak": true
+      }
+    ]
+  }
+}

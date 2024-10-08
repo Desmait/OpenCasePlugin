@@ -1,0 +1,203 @@
+{
+  "name": "Operation Riptide",
+  "content": {
+    "Rare Special Items": [
+      {
+        "name": "Bowie Knife | Gamma Doppler",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Bowie Knife | Lore",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Bowie Knife | Autotronic",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Bowie Knife | Freehand",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Bowie Knife | Black Laminate",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Bowie Knife | Bright Water",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Butterfly Knife | Autotronic",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Butterfly Knife | Lore",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Butterfly Knife | Black Laminate",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Butterfly Knife | Freehand",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Butterfly Knife | Bright Water",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Butterfly Knife | Gamma Doppler",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Falchion Knife | Gamma Doppler",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Falchion Knife | Autotronic",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Falchion Knife | Lore",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Falchion Knife | Black Laminate",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Falchion Knife | Freehand",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Falchion Knife | Bright Water",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Huntsman Knife | Gamma Doppler",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Huntsman Knife | Lore",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Huntsman Knife | Autotronic",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Huntsman Knife | Freehand",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Huntsman Knife | Bright Water",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Huntsman Knife | Black Laminate",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Shadow Daggers | Gamma Doppler",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Shadow Daggers | Lore",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Shadow Daggers | Autotronic",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Shadow Daggers | Freehand",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Shadow Daggers | Black Laminate",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Shadow Daggers | Bright Water",
+        "can_be_stattrak": true
+      }
+    ],
+    "Covert Skins": [
+      {
+        "name": "Desert Eagle | Ocean Drive",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "AK-47 | Leet Museo",
+        "can_be_stattrak": true
+      }
+    ],
+    "Classified Skins": [
+      {
+        "name": "SSG 08 | Turbo Peek",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Glock-18 | Snack Attack",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "MAC-10 | Toybox",
+        "can_be_stattrak": true
+      }
+    ],
+    "Restricted Skins": [
+      {
+        "name": "M4A4 | Spider Lily",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "MP9 | Mount Fuji",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "FAMAS | ZX Spectron",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Five-SeveN | Boost Protocol",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "MAG-7 | BI83 Spectrum",
+        "can_be_stattrak": true
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "USP-S | Black Lotus",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "XM1014 | Watchdog",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "PP-Bizon | Lumen",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "AUG | Plague",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "MP7 | Guerrilla",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Dual Berettas | Tread",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "G3SG1 | Keeping Tabs",
+        "can_be_stattrak": true
+      }
+    ]
+  }
+}

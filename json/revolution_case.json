@@ -1,0 +1,187 @@
+{
+  "name": "Revolution Case",
+  "content": {
+    "Rare Special Items": [
+      {
+        "name": "Driver Gloves | King Snake",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "Driver Gloves | Imperial Plaid",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "Driver Gloves | Overtake",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "Driver Gloves | Racing Green",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "Hand Wraps | Cobalt Skulls",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "Hand Wraps | Overprint",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "Hand Wraps | Duct Tape",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "Hand Wraps | Arboreal",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "Hydra Gloves | Case Hardened",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "Hydra Gloves | Emerald",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "Hydra Gloves | Mangrove",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "Hydra Gloves | Rattler",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "Moto Gloves | Turtle",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "Moto Gloves | POW!",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "Moto Gloves | Polygon",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "Moto Gloves | Transport",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "Specialist Gloves | Crimson Web",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "Specialist Gloves | Fade",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "Specialist Gloves | Mogul",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "Specialist Gloves | Buckshot",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "Sport Gloves | Vice",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "Sport Gloves | Amphibious",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "Sport Gloves | Omega",
+        "can_be_stattrak": false
+      },
+      {
+        "name": "Sport Gloves | Bronze Morph",
+        "can_be_stattrak": false
+      }
+    ],
+    "Covert Rifle": [
+      {
+        "name": "M4A4 | Temukau",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "AK-47 | Head Shot",
+        "can_be_stattrak": true
+      }
+    ],
+    "Classified Sniper Rifle": [
+      {
+        "name": "AWP | Duality",
+        "can_be_stattrak": true
+      }
+    ],
+    "Classified Pistol": [
+      {
+        "name": "P2000 | Wicked Sick",
+        "can_be_stattrak": true
+      }
+    ],
+    "Classified SMG": [
+      {
+        "name": "UMP-45 | Wild Child",
+        "can_be_stattrak": true
+      }
+    ],
+    "Restricted Rifle": [
+      {
+        "name": "M4A1-S | Emphorosaur-S",
+        "can_be_stattrak": true
+      }
+    ],
+    "Restricted Pistol": [
+      {
+        "name": "Glock-18 | Umbral Rabbit",
+        "can_be_stattrak": true
+      }
+    ],
+    "Restricted SMG": [
+      {
+        "name": "P90 | Neoqueen",
+        "can_be_stattrak": true
+      }
+    ],
+    "Mil-Spec Weapons": [
+      {
+        "name": "R8 Revolver | Banana Cannon",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "MAC-10 | Sakkaku",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "MP9 | Featherweight",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "MP5-SD | Liquidation",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "SG 553 | Cyberforce",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "P250 | Re.built",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "Tec-9 | Rebel",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "MAG-7 | Insomnia",
+        "can_be_stattrak": true
+      },
+      {
+        "name": "SCAR-20 | Fragments",
+        "can_be_stattrak": true
+      }
+    ]
+  }
+}
